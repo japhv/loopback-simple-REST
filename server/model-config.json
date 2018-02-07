@@ -14,11 +14,7 @@
     ]
   },
   "gems": {
-    "dataSource": null,
-    "public": true
-  },
-  "test": {
-    "dataSource": null,
+    "dataSource": "gemsDS",
     "public": true
   }
 }
