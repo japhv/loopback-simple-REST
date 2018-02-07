@@ -1,0 +1,27 @@
+{
+  "name": "gems",
+  "plural": "gems",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "unitPrice": {
+      "type": "number",
+      "required": true
+    },
+    "count": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
