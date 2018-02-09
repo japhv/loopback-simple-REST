@@ -2,7 +2,7 @@
   "gemsDS": {
     "host": "ec2-54-83-11-247.compute-1.amazonaws.com",
     "port": 5432,
-    "url": "postgres://guqrceqeuyizbs:f517455254b6dbc297a1c66e81169320f0afdf66369d2cbb63a7bb65065f5e72@ec2-54-83-11-247.compute-1.amazonaws.com:5432/d845luoep1qcq4",
+    "url": "postgres://guqrceqeuyizbs:f517455254b6dbc297a1c66e81169320f0afdf66369d2cbb63a7bb65065f5e72@ec2-54-83-11-247.compute-1.amazonaws.com:5432/d845luoep1qcq4?ssl=true",
     "database": "d845luoep1qcq4",
     "password": "f517455254b6dbc297a1c66e81169320f0afdf66369d2cbb63a7bb65065f5e72",
     "name": "gemsDS",
